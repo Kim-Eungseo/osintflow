@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: osintflow
+Version: 0.1.2
+Author: Ngseo Kim
+Author-email: ngseo@s2w.inc
+Maintainer: Ngseo
+Requires: requests
