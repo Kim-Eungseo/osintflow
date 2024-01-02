@@ -40,7 +40,7 @@ mongodb_collection: my-collection
 **osint.store_log**: 이 메서드는 config_path를 입력으로 받아, 래핑된 함수의 반환 값에서 데이터를 가져와 구성 MongoDBO에 로깅 겸 메타 데이터를 저장합니다.
 
 ## Example 1: Threatfox ETL 파이프라인 기본 예시
-```  
+```python  
 import json
 import uuid
 from datetime import datetime
@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
 
 ## Example 2: MITRE ATT&CK 데이터 ETL 파이프라인 응용 예시
-```
+```python
 import json
 import uuid
 from datetime import datetime
