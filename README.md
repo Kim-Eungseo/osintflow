@@ -1,4 +1,4 @@
-# osintflow
+# osintflow (not maintained at github)
 간단한 ETL 프레임워크, MongoDB(필수), MySQL(선택)
 
 ## Getting started
